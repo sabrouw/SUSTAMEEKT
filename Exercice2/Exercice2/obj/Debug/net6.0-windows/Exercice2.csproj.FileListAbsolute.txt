@@ -1,0 +1,33 @@
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.exe
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.deps.json
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.runtimeconfig.json
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.dll
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.pdb
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.FormExercice2.resources
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.csproj.GenerateResource.cache
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.AssemblyInfo.cs
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.dll
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\refint\Exercice2.dll
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.pdb
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.genruntimeconfig.cache
+C:\Users\david\Desktop\Exercices\Exercice-2-Debogage-C#\Exercice2\Exercice2\obj\Debug\net6.0-windows\ref\Exercice2.dll
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.exe
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.deps.json
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.runtimeconfig.json
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.dll
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\bin\Debug\net6.0-windows\Exercice2.pdb
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.FormExercice2.resources
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.csproj.GenerateResource.cache
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.AssemblyInfoInputs.cache
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.AssemblyInfo.cs
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.csproj.CoreCompileInputs.cache
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.dll
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\refint\Exercice2.dll
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.pdb
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\Exercice2.genruntimeconfig.cache
+D:\PROJET PRO\tests technique\Exercice2\Exercice2\obj\Debug\net6.0-windows\ref\Exercice2.dll
