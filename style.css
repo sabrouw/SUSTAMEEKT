@@ -1,0 +1,214 @@
+@font-face {
+    font-family: 'Agelast Font';
+    src: url('/assets/fonts/BrightHead\ Studio\ -\ StudioSansDEMO.ttf') format('opentype');
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover, a:focus, a:active, a:checked, a:visited, a:link{
+    color: inherit;
+    text-decoration: none;
+}
+body {
+    line-height: 1;
+    overflow-y: hidden;
+    position: relative;
+    background-image: url('assets/images/Background_Exercice_Page_Accueil.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh; 
+}
+.container {
+    min-height: 100vh; 
+    display: flex;
+    padding-bottom: 50px;
+    padding-left: 0;
+    padding-top: 0;
+}
+.title-color{
+    position: relative;
+    color: white;
+    margin-top: 70px;
+    font-family:'Agelast Font', sans-serif;
+    display: inline-block;
+}
+.e-modified{
+    position: relative;
+}
+.e-modified::after {
+    content: '';
+    position: absolute;
+    top: 28%;
+    left: 30%;
+    width: 15px;
+    height: 9px;
+    background-color: black;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+}
+.title-group{
+    display: flex;
+    flex-direction: column; 
+    align-items: flex-start; 
+    font-weight: bolder;
+
+}
+header{
+    position: absolute; 
+    margin: 0;
+    padding: 20px;
+}
+
+.ligne-texte {
+    position: relative;
+    display: inline-block;
+    margin-left: 60px;
+    color: rgb(90, 15, 15);
+}
+
+.ligne-texte::before,
+.ligne-texte::after {
+    content: '';
+    position: absolute;
+    top: 50%; 
+    width: 60px; 
+    height: 2px; 
+    background: rgb(90, 15, 15);
+}
+
+.ligne-texte::before {
+    left: -60px;
+}
+
+.ligne-texte::after {
+    right: -60px;
+}
+
+.container-section {
+        width: 100%; 
+        max-width: none; 
+       
+    }
+
+section{
+    color: rgba(255, 255, 255, 0.553);
+}
+.info li{
+    margin-inline:40px;
+    
+}
+.info{
+    
+    position: relative;
+    margin-bottom: 10px;
+}
+.info::before {
+    content: '';
+    display: block;
+    height: 1px;
+    width: 30%;
+    background-color: rgba(255, 255, 255, 0.557);
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%); 
+}
+.politique{
+    position: relative;
+}
+.politique::before {
+    content: '©2023 - Termes - Vie privée - Cookies';
+    display: block;
+    position: absolute;
+    top: -17px;
+    left: 50%;
+    transform: translateX(-40%);
+    color: rgba(255, 255, 255, 0.55);
+    font-size: 12px;
+   
+  
+}
+.politique::after {
+    content: '';
+    display: block;
+    height: 2px;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.55) 0%, rgb(90, 15, 15) 28%, rgb(90, 15, 15) 73%, rgba(255, 255, 255, 0.55) 100%);
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.politique li{
+    margin-inline:40px;
+    margin-bottom: 40px;
+}
+
+footer{
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        height: 80px;
+        background: #09111B;
+        color: white;
+        text-align: center;
+        padding: 10px 0;
+        border-top: solid 2px #3C4045;
+}
+@media (max-width: 576px) {
+    .politique::before {
+        left: 40%;
+        transform: translateX(-40%);
+    }
+    .info li{
+        margin-inline:10px;
+        
+    }
+    .politique li{
+        margin-inline:5px;
+        
+    }
+}
